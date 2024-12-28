@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875687453306",
+    "project_id": "carrental-a67d7",
+    "storage_bucket": "carrental-a67d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875687453306:android:870164fc5ee64e630a91c3",
+        "android_client_info": {
+          "package_name": "com.example.car_rental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayyHuX9ekSvvG3JhGti0sb69k0YlSHIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
