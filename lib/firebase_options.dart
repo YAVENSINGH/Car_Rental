@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDwiUCNWLPsxecsLekAZbvMPUWsA3hoObY',
+    apiKey: 'you_own_key',
     appId: '1:875687453306:web:9a626a8ae2d448eb0a91c3',
     messagingSenderId: '875687453306',
     projectId: 'carrental-a67d7',
